@@ -12,7 +12,7 @@ public class Asal_sayi {
 		
 		System.out.print("Ilk deger;");
 		double deger1 = sc.nextInt();
-		System.out.print("Ikýncý deger;");
+		System.out.print("Ikinci deger;");
 		double deger2 = sc.nextInt();
 		
 		if (deger1<deger2) {
