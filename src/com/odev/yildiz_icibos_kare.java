@@ -19,7 +19,7 @@ public class yildiz_icibos_kare {
 		
         System.out.println();
         
-            for (int b = 0; b < deger; b++) {
+            for (int b = 0; b < deger - 2; b++) {
             	
                 System.out.print("* ");
                 
