@@ -10,9 +10,9 @@ public class Asal_sayi {
 		
 		System.out.println("Deger araligini girin;");
 		
-		System.out.println("Ilk deger;");
+		System.out.print("Ilk deger;");
 		double deger1 = sc.nextInt();
-		System.out.println("Ikýncý deger;");
+		System.out.print("Ikýncý deger;");
 		double deger2 = sc.nextInt();
 		
 		if (deger1<deger2) {
@@ -21,12 +21,12 @@ public class Asal_sayi {
 									
 				double asaldeger = (Math.pow(2, deger1))%(deger1);
 				
-				if (asaldeger == 2)System.out.println(deger1);
+				if (asaldeger == 2)System.out.println("Araliktaki Asal Sayi: " + deger1);
 				deger1++;
 														
 			}
 			
-		}else System.out.println("ilk deger ikinci degerden kucuk olmalidir");
+		}else System.out.println("Ilk deger ikinci degerden kucuk olmalidir");
 		
 	}
 
