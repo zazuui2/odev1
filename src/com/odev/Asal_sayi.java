@@ -2,6 +2,8 @@ package com.odev;
 
 import java.util.Scanner;
 
+//@Author: Berkay
+
 public class Asal_sayi {
 
 	public static void main(String[] args) {
