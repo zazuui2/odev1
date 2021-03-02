@@ -21,7 +21,8 @@ public class Asal_sayi {
 									
 				double asaldeger = (Math.pow(2, deger1))%(deger1);
 				
-				if (asaldeger == 2)System.out.println("Araliktaki Asal Sayi: " + deger1);
+				
+				if (asaldeger == 2)System.out.println("Araliktaki Asal Sayi: " + (int)deger1);
 				deger1++;
 														
 			}
