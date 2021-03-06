@@ -27,3 +27,4 @@ public class Sayi_piramit {
 
 
 
+//asd
