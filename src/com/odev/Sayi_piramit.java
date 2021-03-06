@@ -12,7 +12,7 @@ public class Sayi_piramit {
 			System.out.println("Degeri girin");
 			int deger=sc.nextInt();	
 			
-		    for (int i = 1; i <= deger; ++i) {
+		    for (int i = 1; i <= deger; i++) {
 		    	for (int b1 = 1;b1<=i;b1++ )
 		          System.out.print(b1 + "");
 		    
