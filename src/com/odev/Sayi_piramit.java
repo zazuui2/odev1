@@ -6,6 +6,8 @@ public class Sayi_piramit {
 
 	public static void main(String[] args) {
 		
+		
+		// Muhammet HOCA
 		Scanner sc = new Scanner (System.in);
 		
 								
