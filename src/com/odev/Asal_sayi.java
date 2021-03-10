@@ -21,7 +21,7 @@ public class Asal_sayi {
 			
 			while (deger1<=deger2) {
 									
-				double asaldeger = (Math.pow(2, deger1))%(deger1);
+				double asaldeger = Math.pow(2,deger1)%(deger1);
 				
 				
 				if (asaldeger == 2)System.out.println("Araliktaki Asal Sayi: " + (int)deger1);
